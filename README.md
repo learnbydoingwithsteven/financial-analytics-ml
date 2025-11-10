@@ -66,12 +66,18 @@ A comprehensive full-stack financial analytics application with ML predictions a
 cd backend
 pip install -r requirements.txt
 python main.py
+
+cd backend
+python main.py
 ```
 
 ### Frontend Setup
 ```bash
 cd frontend
 npm install
+npm run dev
+
+cd frontend
 npm run dev
 ```
 
